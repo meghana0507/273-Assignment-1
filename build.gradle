@@ -21,7 +21,7 @@ jar {
 }
 
 bootRepackage {
-    mainClass = '273-Assignment1.ModApplication'
+    mainClass = 'A1.ModApplication'
 }
 
 repositories {
